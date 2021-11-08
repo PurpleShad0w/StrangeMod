@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    " # ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "strangemod:violetite_ingot"
+    }
+  },
+  "result": {
+    "item": "strangemod:violetite_pickaxe"
+  }
+}

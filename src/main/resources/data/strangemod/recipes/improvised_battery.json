@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# S",
+    "#RS",
+    " E "
+  ],
+  "key": {
+    "#": {
+      "item": "strangemod:red_iron_strip"
+    },
+    "S": {
+      "item": "strangemod:red_gold_strip"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "E": {
+      "item": "strangemod:saline_water_bottle"
+    }
+  },
+  "result": {
+    "item": "strangemod:improvised_battery",
+    "count": 1
+  }
+}

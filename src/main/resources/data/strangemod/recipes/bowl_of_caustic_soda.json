@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "BSA",
+    " L "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:oak_planks"
+    },
+    "B": {
+      "item": "minecraft:bowl"
+    },
+    "S": {
+      "item": "strangemod:saline_water_bottle"
+    },
+    "A": {
+      "item": "strangemod:improvised_battery"
+    },
+    "L": {
+      "item": "minecraft:lava_bucket"
+    }
+  },
+  "result": {
+    "item": "strangemod:bowl_of_caustic_soda",
+    "count": 1
+  }
+}

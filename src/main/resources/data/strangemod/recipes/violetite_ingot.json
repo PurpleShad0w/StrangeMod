@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "strangemod:violetite_block"
+    }
+  ],
+  "result": {
+    "item": "strangemod:violetite_ingot",
+    "count": 9
+  }
+}
