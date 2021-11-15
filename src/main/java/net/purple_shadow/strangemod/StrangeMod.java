@@ -15,8 +15,8 @@ import net.minecraftforge.fml.event.lifecycle.InterModProcessEvent;
 import net.minecraftforge.fml.event.server.FMLServerStartingEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.purple_shadow.strangemod.block.ModBlocks;
+import net.purple_shadow.strangemod.fluid.ModFluids;
 import net.purple_shadow.strangemod.item.ModItems;
-import net.purple_shadow.strangemod.item.ModItemsElements;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -45,7 +45,7 @@ public class StrangeMod
         // Register ourselves for server and other game events we are interested in
         MinecraftForge.EVENT_BUS.register(this);
         ModBlocks.register(eventBus);
-        ModItemsElements.register(eventBus);
+        ModFluids.register(eventBus);
     }
 
     private void setup(final FMLCommonSetupEvent event)
