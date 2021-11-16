@@ -23,5 +23,13 @@
   "itemGroup.strangemodblocks": "Strange Mod Blocks",
   "fluid.strangemod.h_fluid": "H",
   "fluid.strangemod.o_fluid": "O",
-  "fluid.strangemod.c_fluid": "C"
+  "fluid.strangemod.c_fluid": "C",
+  "item.strangemod.hydrogen": "Atom of Hydrogen",
+  "item.strangemod.helium": "Atom of Helium",
+  "item.strangemod.lithium": "Atom of Lithium",
+  "item.strangemod.beryllium": "Atom of Beryllium",
+  "item.strangemod.carbon": "Atom of Carbon",
+  "item.strangemod.nitrogen": "Atom of Nitrogen",
+  "item.strangemod.oxygen": "Atom of Oxygen",
+  "item.strangemod.sodium": "Atom of Sodium"
 }

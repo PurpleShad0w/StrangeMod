@@ -23,7 +23,7 @@ public class ModItemGroup {
     public static final ItemGroup ELEMENTS = new ItemGroup("elements") {
         @Override
         public ItemStack makeIcon() {
-            return new ItemStack(ModItems.BOWL_OF_CAUSTIC_SODA.get());
+            return new ItemStack(ModItemsElements.HYDROGEN.get());
         }
     };
 
